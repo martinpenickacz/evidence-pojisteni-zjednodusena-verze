@@ -1,0 +1,15 @@
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\bin\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.exe
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\bin\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.deps.json
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\bin\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.runtimeconfig.json
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\bin\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.dll
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\bin\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.pdb
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.AssemblyInfo.cs
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.dll
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\refint\evidence-pojisteni-zjednodusena-verze.dll
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.pdb
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\evidence-pojisteni-zjednodusena-verze.genruntimeconfig.cache
+C:\Users\Martin\source\repos\evidence-pojisteni-zjednodusena-verze\obj\Debug\net6.0\ref\evidence-pojisteni-zjednodusena-verze.dll
